@@ -7,4 +7,5 @@ Presents the results in an interactive Power BI dashboard with a support-vs-lift
 Surfaces key associations (such as Yogurt with soft cheese, curd, and berries, and Whole Milk with vegetables) to support cross-selling, product placement, bundling, and inventory decisions
 
 Tech stack: Power BI Desktop, Power Query, DAX, ZoomCharts, Excel
+
 #power-bi #market-basket-analysis #association-rules #dax #power-query #data-analysis #data-visualization #retail-analytics #business-intelligence #grocery cross-selling dashboard
